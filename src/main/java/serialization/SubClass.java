@@ -19,9 +19,9 @@ public class SubClass extends SuperClass implements Serializable, ObjectInputVal
     @Override
     public String toString() {
         return "SubClass{" +
-                "name=" + getName () + '\'' +
-                "id=" + getId () + '\'' +
-                "description='" + description + '\'' +
+                "name=[" + getName () + "] " +
+                "id=[" + getId () + "] " +
+                "description=[" + description + "] " +
                 '}';
     }
 
