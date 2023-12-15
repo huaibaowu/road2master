@@ -1,4 +1,4 @@
-package demo;
+package record;
 
 public class PlainCircle {
     private int radius;

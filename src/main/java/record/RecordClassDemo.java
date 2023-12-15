@@ -1,6 +1,6 @@
-package demo;
+package record;
 
-public class TestCase {
+public class RecordClassDemo {
     public static void main(String[] args) {
         PlainCircle pc1 = new PlainCircle(10);
         PlainCircle pc2 = new PlainCircle(10);

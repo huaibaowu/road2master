@@ -1,4 +1,4 @@
-package demo;
+package record;
 
 public record RecordCycle(int radius) {
     public RecordCycle {
